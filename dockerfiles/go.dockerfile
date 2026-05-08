@@ -1,4 +1,4 @@
-FROM golang:1.26.2
+FROM golang:1.26.3
 
 ENV CGO_ENABLED=1 \
     GO111MODULE=on \
